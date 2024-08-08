@@ -1,3 +1,5 @@
+# Aqui van todos los archivos que no quiero que se suban al repositorio
+
 __pycache__
 venv
 db.sqlite3
